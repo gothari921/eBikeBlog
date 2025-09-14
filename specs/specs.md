@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: "Specifications & Costs"
+permalink: /specs/
 ---
 
 # 🚲 E-Bike Specifications
