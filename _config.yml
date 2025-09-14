@@ -1,4 +1,5 @@
 title: "E-Bike Blog"
-baseurl: "https://gothari921.github.io/eBikeBlog/"  # Your repo name
+description: "My DIY e-bike build journey"
+baseurl: "/eBikeBlog"   # repo name
 url: "https://gothari921.github.io"
 theme: minima
