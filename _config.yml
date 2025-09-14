@@ -1,0 +1,4 @@
+title: "E-Bike Blog"
+baseurl: "https://gothari921.github.io/eBikeBlog/"  # Your repo name
+url: "https://gothari921.github.io"
+theme: minima
