@@ -2,4 +2,4 @@ title: "E-Bike Blog"
 description: "My DIY e-bike build journey"
 baseurl: "/eBikeBlog"   # repo name
 url: "https://gothari921.github.io"
-theme: minima
+theme: jekyll-theme-cayman
