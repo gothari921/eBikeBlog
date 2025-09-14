@@ -1,29 +1,36 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
+.blog-container {
+  display: flex;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.entries {
+  flex: 3;
+}
+
+.day-card {
+  background: #fefefe;
+  border-left: 5px solid #1e90ff; /* colored accent for each day */
+  padding: 1rem 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   line-height: 1.6;
 }
 
-header {
-  background: #333;
-  color: #fff;
-  padding: 1rem;
+.gallery {
+  flex: 1;
+  max-width: 200px;
 }
 
-header a {
-  color: #fff;
-  text-decoration: none;
-  margin: 0 0.5rem;
+.gallery img {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 5px;
 }
 
-main {
-  padding: 1rem;
-}
-
-footer {
-  background: #f4f4f4;
-  text-align: center;
-  padding: 1rem;
+.entries h2 {
+  color: #1e90ff;
   margin-top: 2rem;
+  margin-bottom: 1rem;
 }
