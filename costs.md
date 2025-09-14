@@ -6,7 +6,7 @@ title: Costs
 # E-Bike Costs
 
 | Component       | Cost   |
-|-----------------|--------|
+|-----------------|--------| 
 | Motor           | $300   |
 | Battery         | $400   |
 | Controller      | $100   |
